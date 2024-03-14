@@ -2,7 +2,7 @@
   <content>
     
 # 1:PetInfo
-TODO: History of the file and registation for pet.
+TODO: History of the file and registation for pet. Front-End Side for Practies. S3 storage connection images,upload and download files.
 
 ## Installation
 TODO: Describe the installation process
